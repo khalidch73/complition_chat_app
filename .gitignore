@@ -1,0 +1,7 @@
+.env
+__pycache__
+.mypy_cache
+chat_history.db
+chat_history.bak
+chat_history.dat
+chat_history.dir
